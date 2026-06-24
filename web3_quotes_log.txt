@@ -12,3 +12,4 @@ Commit #11: First, solve the problem. Then, write the code.
 Commit #12: Talk is cheap. Show me the code.
 Commit #13: Programs must be written for people to read, and only incidentally for machines to execute.
 Commit #14: First, solve the problem. Then, write the code.
+Commit #15: First, solve the problem. Then, write the code.
