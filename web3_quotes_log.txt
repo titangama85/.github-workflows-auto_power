@@ -41,3 +41,4 @@ Commit #40: In order to be irreplaceable one must always be different.
 Commit #41: Programs must be written for people to read, and only incidentally for machines to execute.
 Commit #42: First, solve the problem. Then, write the code.
 Commit #43: Talk is cheap. Show me the code.
+Commit #44: Programs must be written for people to read, and only incidentally for machines to execute.
