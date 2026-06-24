@@ -29,3 +29,4 @@ Commit #28: Experience is the name everyone gives to their mistakes.
 Commit #29: Talk is cheap. Show me the code.
 Commit #30: Experience is the name everyone gives to their mistakes.
 Commit #31: First, solve the problem. Then, write the code.
+Commit #32: First, solve the problem. Then, write the code.
