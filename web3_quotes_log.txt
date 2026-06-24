@@ -76,3 +76,4 @@ Commit #75: Programs must be written for people to read, and only incidentally f
 Commit #76: In order to be irreplaceable one must always be different.
 Commit #77: Talk is cheap. Show me the code.
 Commit #78: Talk is cheap. Show me the code.
+Commit #79: Programs must be written for people to read, and only incidentally for machines to execute.
