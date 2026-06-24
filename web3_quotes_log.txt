@@ -63,3 +63,4 @@ Commit #62: Programs must be written for people to read, and only incidentally f
 Commit #63: Talk is cheap. Show me the code.
 Commit #64: Talk is cheap. Show me the code.
 Commit #65: Programs must be written for people to read, and only incidentally for machines to execute.
+Commit #66: First, solve the problem. Then, write the code.
