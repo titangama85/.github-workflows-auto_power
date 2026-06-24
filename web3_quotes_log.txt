@@ -22,3 +22,4 @@ Commit #21: First, solve the problem. Then, write the code.
 Commit #22: In order to be irreplaceable one must always be different.
 Commit #23: Talk is cheap. Show me the code.
 Commit #24: In order to be irreplaceable one must always be different.
+Commit #25: Experience is the name everyone gives to their mistakes.
