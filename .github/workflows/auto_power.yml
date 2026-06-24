@@ -1,0 +1,36 @@
+name: Daily Code Quotes Automation
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-quotes:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Run 100 Quotes Commits
+      run: |
+        git config --local user.name "titangama85"
+        git config --local user.email "davidlanda8080@gmail.com"
+        
+        quotes=(
+          "Talk is cheap. Show me the code."
+          "Programs must be written for people to read, and only incidentally for machines to execute."
+          "First, solve the problem. Then, write the code."
+          "Experience is the name everyone gives to their mistakes."
+          "In order to be irreplaceable one must always be different."
+        )
+
+        for i in {1..100}; do
+          random_quote=${quotes[$RANDOM % ${#quotes[@]}]}
+          echo "Commit #$i: $random_quote" >> web3_quotes_log.txt
+          
+          git add web3_quotes_log.txt
+          git commit -m "feat: add inspiring code quote #$i"
+        done
+
+    - name: Push Changes
+      run: |
+        git push origin main
