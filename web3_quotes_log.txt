@@ -97,3 +97,4 @@ Commit #96: Talk is cheap. Show me the code.
 Commit #97: In order to be irreplaceable one must always be different.
 Commit #98: Programs must be written for people to read, and only incidentally for machines to execute.
 Commit #99: First, solve the problem. Then, write the code.
+Commit #100: Programs must be written for people to read, and only incidentally for machines to execute.
