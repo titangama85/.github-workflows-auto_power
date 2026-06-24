@@ -17,3 +17,4 @@ Commit #16: In order to be irreplaceable one must always be different.
 Commit #17: In order to be irreplaceable one must always be different.
 Commit #18: In order to be irreplaceable one must always be different.
 Commit #19: First, solve the problem. Then, write the code.
+Commit #20: Programs must be written for people to read, and only incidentally for machines to execute.
