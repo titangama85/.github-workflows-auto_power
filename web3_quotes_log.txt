@@ -6,3 +6,4 @@ Commit #5: In order to be irreplaceable one must always be different.
 Commit #6: Talk is cheap. Show me the code.
 Commit #7: First, solve the problem. Then, write the code.
 Commit #8: Experience is the name everyone gives to their mistakes.
+Commit #9: Programs must be written for people to read, and only incidentally for machines to execute.
