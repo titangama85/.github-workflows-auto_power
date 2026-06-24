@@ -24,3 +24,4 @@ Commit #23: Talk is cheap. Show me the code.
 Commit #24: In order to be irreplaceable one must always be different.
 Commit #25: Experience is the name everyone gives to their mistakes.
 Commit #26: In order to be irreplaceable one must always be different.
+Commit #27: Talk is cheap. Show me the code.
