@@ -49,3 +49,4 @@ Commit #48: First, solve the problem. Then, write the code.
 Commit #49: Talk is cheap. Show me the code.
 Commit #50: First, solve the problem. Then, write the code.
 Commit #51: Experience is the name everyone gives to their mistakes.
+Commit #52: In order to be irreplaceable one must always be different.
