@@ -2,3 +2,4 @@ Commit #1: Experience is the name everyone gives to their mistakes.
 Commit #2: In order to be irreplaceable one must always be different.
 Commit #3: First, solve the problem. Then, write the code.
 Commit #4: Talk is cheap. Show me the code.
+Commit #5: In order to be irreplaceable one must always be different.
